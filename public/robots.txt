@@ -3,4 +3,5 @@ Allow: /
 Disallow: /api/
 
 
-Sitemap: https://yuresh.vercel.app/sitemap.xml
+Sitemap: https://yuresh1.vercel.app/sitemap.xml
+
